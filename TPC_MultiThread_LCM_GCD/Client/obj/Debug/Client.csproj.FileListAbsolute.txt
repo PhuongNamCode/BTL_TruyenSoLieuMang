@@ -1,0 +1,13 @@
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\TPC_Caculator\Client\bin\Debug\Client.exe.config
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\TPC_Caculator\Client\bin\Debug\Client.exe
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\TPC_Caculator\Client\bin\Debug\Client.pdb
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\TPC_Caculator\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\TPC_Caculator\Client\obj\Debug\Client.exe
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\TPC_Caculator\Client\obj\Debug\Client.pdb
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\MutilThread\Client\bin\Debug\Client.exe.config
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\MutilThread\Client\bin\Debug\Client.exe
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\MutilThread\Client\bin\Debug\Client.pdb
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\MutilThread\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\MutilThread\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\MutilThread\Client\obj\Debug\Client.exe
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\MutilThread\Client\obj\Debug\Client.pdb

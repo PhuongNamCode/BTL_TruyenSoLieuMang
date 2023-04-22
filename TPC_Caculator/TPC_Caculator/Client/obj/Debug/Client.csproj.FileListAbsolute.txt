@@ -1,0 +1,14 @@
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\TPC_Caculator\Client\bin\Debug\Client.exe.config
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\TPC_Caculator\Client\bin\Debug\Client.exe
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\TPC_Caculator\Client\bin\Debug\Client.pdb
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\TPC_Caculator\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\TPC_Caculator\Client\obj\Debug\Client.exe
+C:\DATA\HOANGCHU_M\A_18_19\LAP_TRINH_TRUYEN_THONG\TPC_Caculator\Client\obj\Debug\Client.pdb
+C:\Users\Admin\Downloads\drive-download-20230418T010427Z-001\TPC_Caculator\TPC_Caculator\Client\bin\Debug\Client.exe.config
+C:\Users\Admin\Downloads\drive-download-20230418T010427Z-001\TPC_Caculator\TPC_Caculator\Client\bin\Debug\Client.exe
+C:\Users\Admin\Downloads\drive-download-20230418T010427Z-001\TPC_Caculator\TPC_Caculator\Client\bin\Debug\Client.pdb
+C:\Users\Admin\Downloads\drive-download-20230418T010427Z-001\TPC_Caculator\TPC_Caculator\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\drive-download-20230418T010427Z-001\TPC_Caculator\TPC_Caculator\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\drive-download-20230418T010427Z-001\TPC_Caculator\TPC_Caculator\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\drive-download-20230418T010427Z-001\TPC_Caculator\TPC_Caculator\Client\obj\Debug\Client.exe
+C:\Users\Admin\Downloads\drive-download-20230418T010427Z-001\TPC_Caculator\TPC_Caculator\Client\obj\Debug\Client.pdb
